@@ -3,6 +3,7 @@
 # Modelagem Linear para Aprendizado de Máquina – 1CC
 # Análise Estatística Descritiva de Asteroides
 # Fonte: JPL Small-Body Database / CNEOS / NASA
+#  grupo: lucas klein da veiga rm:570029  Rafael Ferreirinha Quaresma rm571949
 # ============================================================
 
 # ── Instalação de dependências (Google Colab) ──────────────
